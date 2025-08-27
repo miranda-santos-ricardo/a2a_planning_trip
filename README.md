@@ -21,15 +21,13 @@ A2A Trip Planner is a network of agents working together to help you plan your t
 git clone https://github.com/rikardoms/a2a_planning_trip
 cd a2a_planning_trip
 pip install -r requirements.txt (need to include your BRAVESeARCH and OPENWEATHER KEYs in the .env file)
-.\venv\Script\activate
+.\venv\Script\activate (windows machine)
 
 to run Weather Agent (separated terminal)
-
 ```bash
 python .\WeatherAgent.py
 
 to run braveSearch Agent (separated terminal)
-
 ```bash
 python .\BraveSearchAgent.py
 
