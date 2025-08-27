@@ -1,0 +1,6 @@
+python_a2a
+dotenv
+langchain-core
+langchain-ollama
+pydantic
+langchain_ollama
